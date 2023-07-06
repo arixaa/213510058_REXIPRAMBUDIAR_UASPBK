@@ -1,4 +1,6 @@
 # uas_pbk
+NAMA : REXI PRAMBUDIA R
+NPM : 213510058
 
 ## Project setup
 ```
